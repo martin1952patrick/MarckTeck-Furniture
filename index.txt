@@ -1,4 +1,4 @@
-Woodex - Get Quality Furniture
+MarckTeck - Get Quality Furniture
 This is an eCommerce html template made by codewithsadee
 
 
@@ -50,11 +50,11 @@ Blogs
 
 Contact Us
 
-69 Halsey St, Ny 10002, New York, United States
+01000,  MarckTeck,  Westland, Kenya
 
-support.center@woodex.co
+support.marckteck@gmail.com
 
-(0000) 1235 567890
+(0000) +25470117426544
 
 Follow US On Socials
 
@@ -123,81 +123,81 @@ Sale
 -10%
 
 Animi Dolor Pariatur
-$19.00
-$10.00
+Ksh. 2000
+Ksh. 1200
 
 filter = accessory
 Out of Stock
 Art Deco Home
-$30.00
+Ksh. 3000
 
 filter = decoration
 Artificial potted plant
-$40.00
+Ksh.4500
 
 filter = accessory
 Dark Green Jug
-$17.10
+Ksh. 1800
 
 filter = accessory
 Drinking Glasses
-$21.00
+Ksh. 2100
 
 filter = furniture
 Helen Chair
-$69.50
+Ksh 6950
 
 filter = accessory
 High Quality Glass Bottle
-$30.10
+Ksh. 3500
 
 filter = accessory
 Living Room & Bedroom Lights
-$45.00
+Ksh. 4500
 
 filter = furniture
 Nancy Chair
-$90.00
+Ksh. 9000
 
 filter = furniture
 Simple Chair
-$40.00
+Ksh. 4500
 
 filter = decoration
 Smooth Disk
-$46.00
+Ksh. 4700
 
 filter = furniture
 Table Black
-$67.00
+Ksh. 8700
 
 filter = furniture
 Table Wood Pine
-$50.00
+Ksh. 5500
 
 filter = accessory
 Teapot with black tea
-$25.00
+Ksh. 2800
 
 filter = decoration
 Unique Decoration
-$15.00
+Ksh. 1800
 
 filter = decoration
 Vase Of Flowers
-$77.00
+Ksh. 8700
 
 filter = decoration
 Wood Eggs
-$19.00
+Ksh. 2000
 
 filter = decoration
 Wooden Box
-$27.00
+Ksh. 3000
 
 filter = accessory
 Wooden Cups
-$29.00
+Ksh. 3000
 
 
 
@@ -223,7 +223,7 @@ Navy Blue & White Striped Area Rugs
 
 November 25
 
-Woodex White Coated Staircase Floating
+MarckTeck White Coated Staircase Floating
 
 November 18
 
@@ -251,7 +251,7 @@ Woodex
 Woodex, Chicago, USA 2022
 
 <ion-icon name="call-sharp" aria-hidden="true"></ion-icon>
-+1234567890
++25470117426544
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
